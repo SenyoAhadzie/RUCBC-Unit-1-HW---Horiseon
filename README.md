@@ -4,6 +4,8 @@ This webpage holds content displaying a refactored iteration of a previous versi
 
 The website maintains the same function and form as the previous assets while improving their readability, accessibility, and conciseness.
 
+(Although Lighthouse recommends improving background-foreground contrast, this was not done to retain the site's features and appearance as faithful to the original as possible.)
+
 The following image shows the web application's appearance and functionality:
 
 ![code refactor demo mine](./Assets/RUBC_Screenshot_HW1.JPG)
