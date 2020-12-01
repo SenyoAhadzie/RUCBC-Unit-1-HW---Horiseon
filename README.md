@@ -59,7 +59,7 @@ This homework is graded based on the following criteria:
 
   * Application's links all function correctly.
 
-  * Application's CSS selectors and properties are consolidated and organized to follow semantic structure. ########################
+  * Application's CSS selectors and properties are consolidated and organized to follow semantic structure.
 
   * Application's CSS file is properly commented. ########################
 
@@ -85,9 +85,9 @@ This homework is graded based on the following criteria:
 
 * Repository follows best practices for class/id naming conventions, indentation, quality comments, etc. ########################
 
-* Repository contains multiple descriptive commit messages. ########################
+* Repository contains multiple descriptive commit messages.
 
-* Repository contains quality README file with description, screenshot, and link to deployed application.
+* Repository contains quality README file with description, screenshot, and link to deployed application. ########################
 
 ## Review
 
